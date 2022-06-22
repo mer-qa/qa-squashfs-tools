@@ -5,7 +5,7 @@ Version:	4.3
 Release:	1
 License:	GPLv2+
 Group:		System Environment/Base
-URL:		http://squashfs.sourceforge.net
+URL:		https://github.com/mer-qa/qa-squashfs-tools
 Source0:	%{name}-%{version}.tar.gz
 
 BuildRequires:	zlib-devel
